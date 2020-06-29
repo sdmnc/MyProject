@@ -5,7 +5,7 @@ package sd;
 import java.util.Scanner;
 
 
-public class LuckyBet {
+public class LuckyTicket {
 
     static void luckyNumberInput() {
         int sum1 = 0, sum2 = 0;
